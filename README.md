@@ -6,11 +6,11 @@
 
 ## Features
 
-Serve an HTML form for user input.
-Handle form submissions using Express.js.
-Save user input to a text file using Node.js's fs module.
+- Serve an HTML form for user input.
+- Handle form submissions using Express.js.
+- Save user input to a text file using Node.js's fs module.
 
 ## Prerequisites
 
-Node.js installed on your machine.
-Basic knowledge of JavaScript and Node.js.
+- Node.js installed on your machine.
+- Basic knowledge of JavaScript and Node.js.
