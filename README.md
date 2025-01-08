@@ -1,8 +1,8 @@
 # Express.js Form Example
 
-This project demonstrates how to create a simple web application using Express.js. 
-The app allows users to fill out a form with their name, username, and password. 
-Upon submission, the data is saved to a data.txt file.
+- This project demonstrates how to create a simple web application using Express.js. 
+- The app allows users to fill out a form with their name, username, and password. 
+- Upon submission, the data is saved to a data.txt file.
 
 ## Features
 
